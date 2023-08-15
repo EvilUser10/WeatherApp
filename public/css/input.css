@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Montserrat:wght@600&family=Noto+Sans&family=Roboto:ital,wght@0,700;0,900;1,500;1,700;1,900&display=swap');
+
+.font-noto{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.img-Container{
+    height: 156px;
+}
