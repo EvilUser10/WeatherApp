@@ -1,9 +1,9 @@
-# NodeWeatherApp
-Weather App is a Node.js application that allows you to check the weather forecast. This application utilizes the OpenWeather API to fetch updated weather conditions for various locations.
+# WeatherApp
+WeatherApp is a Node.js application that allows you to check the weather forecast. This application utilizes the OpenWeather API to fetch updated weather conditions for various locations.
 
 ## Description
 
-NodeWeatherApp is a Node.js application that allows you to check the weather forecast. This application utilizes the Weather Forecast API to fetch updated weather conditions for various locations.
+WeatherApp is a Node.js application that allows you to check the weather forecast. This application utilizes the Weather Forecast API to fetch updated weather conditions for various locations.
 
 ![imagen](https://github.com/EvilUser10/NodeWeatherApp/assets/108999274/75d3aadd-78dc-4d3a-bd27-429beb8ae56e)
 
