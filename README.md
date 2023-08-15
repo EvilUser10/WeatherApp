@@ -5,7 +5,7 @@ WeatherApp is a Node.js application that allows you to check the weather forecas
 
 WeatherApp is a Node.js application that allows you to check the weather forecast. This application utilizes the Weather Forecast API to fetch updated weather conditions for various locations.
 
-![imagen](https://github.com/EvilUser10/NodeWeatherApp/assets/108999274/75d3aadd-78dc-4d3a-bd27-429beb8ae56e)
+![imagen](https://github.com/EvilUser10/WeatherApp/assets/108999274/4cdc3e1c-6479-4944-a9bf-b2836aa57701)
 
 
 ## Installation
