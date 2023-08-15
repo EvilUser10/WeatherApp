@@ -59,7 +59,7 @@ The project configuration can be found in the `package.json` file.
 - `nodemon`: Monitors file changes and automatically restarts the application.
 - `tailwindcss`: Usable and customizable CSS framework.
 
-##Credits
+## Credits
 
 
 - `OpenWeather API`: https://openweathermap.org/
